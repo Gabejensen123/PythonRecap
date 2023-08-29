@@ -1,3 +1,4 @@
 recapvenv/
-#go into the gitignore folder and press CTRL S. 
+#go into the gitignore folder put in the right name of the folder you created and press CTRL S. 
 #then put the new folder name in the gitignore folder and backslash. 
+#go to source control and write a message and committ it to your repository. 
