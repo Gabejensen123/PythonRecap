@@ -1,1 +1,3 @@
-.venv/
+recapvenv/
+#go into the gitignore folder and press CTRL S. 
+#then put the new folder name in the gitignore folder and backslash. 
